@@ -1,6 +1,6 @@
 ### Code and data repository for:
 
-### "Satellite-derived volume budget of Antarctic sea ice" - Sulikova et al. (2025)
+### "Satellite-derived volume budget of Antarctic sea ice" - Sulikova et al. (2026). *Earth and Space Science.*
 
 ## Data
 The data used in this publication can be found at:
